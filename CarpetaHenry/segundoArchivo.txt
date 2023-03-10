@@ -1,0 +1,6 @@
+Hola William
+Comandos de GITHUB
+git add . # Agrega todos los files
+git commit -m "mensaje"
+git clone
+git push origin main # Subi el repositorio a GITHUB
